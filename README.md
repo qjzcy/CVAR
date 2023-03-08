@@ -1,9 +1,5 @@
 # CVAR
 
-================================================
-
-by XuZhao (<xuzzzhao@tencent.com>)
-
 Overview
 --------
 
